@@ -1,4 +1,4 @@
 @extends('master')
 @section('main')
-<p>Index Page</p>
+<p>Home Page</p>
 @stop
