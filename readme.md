@@ -37,6 +37,6 @@ $ php artisan serve
 ```
 Open [http://localhost:8000/ ](http://localhost:8000/ )
 
-**You Email:** admin@admin.com
+**Email:** admin@admin.com
 
-**You Password:** admin
+**Password:** admin
