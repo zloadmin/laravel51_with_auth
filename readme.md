@@ -33,6 +33,7 @@ Run
 ```bash
 $ php artisan migrate
 $ php artisan db:seed
+$ php artisan key:generate
 $ php artisan serve
 ```
 Open [http://localhost:8000/ ](http://localhost:8000/ )
